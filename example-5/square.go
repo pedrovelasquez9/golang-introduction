@@ -1,3 +1,4 @@
+// simular la función de raíz cuadrada dentro de un loop para aproximar el valor recibido a través de la operación z -= (z*z - x) / (2*z)
 package main
 
 import (
